@@ -14,8 +14,7 @@ void write(bool q)
 void setup()
 {
   // put your setup code here, to run once:
-  //Serial.begin(115200);
-
+  // Serial.begin(115200);
   pinMode(5, INPUT);
   pinMode(18, INPUT);
   pinMode(16, OUTPUT);
@@ -26,7 +25,6 @@ void setup()
 void loop()
 {
   // put your main code here, to run repeatedly:
-
   if (digitalRead(SET) == 0)
   {
     write(true);
@@ -35,6 +33,4 @@ void loop()
   {
     write(false);
   }
-
-  delay(10);
 }
