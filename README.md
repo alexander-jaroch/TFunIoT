@@ -13,5 +13,7 @@ zum ![Prototyp - Game Master](https://www.figma.com/proto/K9vJf8h62jGfA8uCMdBjYM
 zum ![Use Case Diagram](UseCaseDiagram.pdf)
 
 ## Grobe Baupläne
+### Spieler
 ![Bauplan - Spieler](Spieler_v01_Steckplatine.png)
+### Game Master
 ![Bauplan - Game Master](GameMaster_v01_Steckplatine.png)
