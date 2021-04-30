@@ -18,5 +18,5 @@ zum ![Use Case Diagram](UseCaseDiagram.pdf)
 ### Game Master
 ![Bauplan - Game Master](GameMaster_v01_Steckplatine.png)
 
-# Bauplan Motorsteuerung
+## Bauplan Motorsteuerung
 ![Bauplan - Motorsteuerung](Motor.png)
